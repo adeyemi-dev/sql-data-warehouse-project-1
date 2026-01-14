@@ -1,7 +1,12 @@
 # Data Catalog for Gold Layer
 
-## Overview
-The Gold Layer is the business-level data representation, structured to support analytical and reporting use cases. It consists of **dimension tables** and **fact tables** for specific business metrics.
+## Overview.
+
+🚀 SQL Data Engineering Project – Databricks Medallion Architecture
+
+This project demonstrates a production-grade data warehouse built on Databricks using the Medallion Architecture (Bronze → Silver → Gold) to deliver clean, reliable, and analytics-ready data.
+
+The solution ingests raw CRM and ERP data, applies structured transformations and data quality rules, and exposes business-friendly Gold layer dimensions and facts optimised for BI tools such as Power BI and Tableau.
 
 ---
 
